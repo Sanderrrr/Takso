@@ -1,0 +1,18 @@
+html{
+	background-image:url(bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+body{
+	text-align: center;
+	width:480px;
+	margin: 0 auto;
+	position: relative;
+	top: 50%;
+	transform: translateY(25%);
+	border: 2px solid;
+	border-radius: 25px;
+	background-color:white;
+	opacity: .9;
+}
